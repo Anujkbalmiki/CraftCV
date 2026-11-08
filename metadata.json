@@ -1,0 +1,6 @@
+{
+  "name": "Craft-CV - AI Resume Tailor & Cover Letter Studio",
+  "description": "Instant ATS-optimized resume tailoring and matching cover letters from Job Description screenshots or text with multi-template PDF exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
